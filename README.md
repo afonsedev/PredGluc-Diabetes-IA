@@ -1,5 +1,5 @@
 
-# PredGluc (under development)
+# PredGluc
 
 PredGluc is a system that works with AI machine learning with a database on the probability of patients developing diabetes, I developed and configured everything from the Machine Learning process to the interface and programming for the end user, who can check the analysis of the results.
 ## Features
