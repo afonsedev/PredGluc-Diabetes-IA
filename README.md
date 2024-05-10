@@ -7,6 +7,9 @@ PredGluc is a system that works with AI machine learning with a database on the 
 - Send data to Azure AI analytics
 - Receive a diagnosis whether the patient is diabetic or not
 
+![predict diabetes console - Made with Clipchamp](https://github.com/afonsedev/PredGluc-Diabetes-IA/assets/155216314/f2bf7adf-f3f2-49b8-be5c-94968bb4dc12)
+
+
 
 ## Technologies
 - Cloud Provider: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30" height="30" /> 
