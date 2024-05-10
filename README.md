@@ -23,7 +23,7 @@ PredGluc is a system that works with AI machine learning with a database on the 
           
 ## References
 
-- [Documentation]()
+- [Documentation (under development)]()
 - [Azure Portal](https://azure.microsoft.com/pt-br/)
 - [Dataset Diabetes](https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-fundamentals/main/data/ml/diabetes.csv)
 - [Explore classification with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html)
